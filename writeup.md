@@ -31,4 +31,3 @@ One potential shortcoming could be when a car or some other object is in the reg
 
 A possible improvement would be to develop a better way to detect lanes that curve. Another improvement might be to make the region of interest a bit more dynamic. As it is currently coded, the lines are only detect in a specific trapezoid in from the bottom of the image. This would work for another image with a different resolution
 
-A possible improvement could be to 
