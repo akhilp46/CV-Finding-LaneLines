@@ -10,7 +10,7 @@ The goal of this project is to make a pipeline that finds lane lines on the road
 [image4]: ./test_images/result.jpg "AnnotatedImage"
 
 ---
-My pipeline consistes of the following. First, I convert the image to grayscale, then I blur the image a bit using a Gaussian Noise kernal. 
+My pipeline consists of the following. First, I convert the image to grayscale, then I blur the image a bit using a Gaussian Noise kernal. 
 Original Image          |  Grayscale
 :----------------------:|:-----------------------:
 ![alt-text][image1]   |  ![alt-text][image2]
